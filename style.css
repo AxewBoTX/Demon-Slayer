@@ -1,0 +1,25 @@
+#DL_heading{
+	font-family: cursive;
+	font-size: 55px;
+	text-align: center;
+	margin-top: 40px;
+	height: 50px;
+}
+#another_heading{
+	font-size: 40px;
+	text-align: center;
+}
+#season_1{
+	text-align: center;
+	font-weight: 500;
+	font-size: 40px;
+}
+#thanking{
+	margin-left: 20px;
+}
+#tg_channel_1{
+	color: black;
+}
+#tg_channel_1:hover{
+	font-weight: 500;
+}
